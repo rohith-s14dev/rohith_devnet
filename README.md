@@ -12,7 +12,7 @@
   alt="rohith-s14dev" />
 </p>
 
-- 💻 1.5+ years of experience in C/C++ and Linux Systems Programming
+- 💻 1.7+ years of experience in C/C++ and Linux Systems Programming
 - 🔭 Working on Data Plane Networking, Packet Processing and VPN Technologies
 - 🌱 Exploring DPDK, VPP, Linux Networking and System Design
 - 💬 Ask me about C, C++, Linux, TCP/IP, DPDK, VPP and VPN
