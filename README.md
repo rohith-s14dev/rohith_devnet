@@ -16,7 +16,7 @@
 - 🔭 Working on Data Plane Networking, Packet Processing and VPN Technologies
 - 🌱 Exploring DPDK, VPP, Linux Networking and System Design
 - 💬 Ask me about C, C++, Linux, TCP/IP, DPDK, VPP and VPN
-- 📫 How to reach me **rohith.s142002@gmail.com**
+- 📫 How to reach me **rohith.devnet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
